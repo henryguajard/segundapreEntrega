@@ -1,0 +1,23 @@
+.h1{
+    background-color: black;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+
+.texto{
+    width: 100%;
+    color: transparent;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 150px;
+    font-weight: bolder;
+
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-ciudad-noche-luces-neon_1441-2590.jpg?w=740&t=st=1676592290~exp=1676592890~hmac=40b3ffddd605c9c9cabd6bdc39839e3ea73cdced352392b35a47f155f66613c8);
+    background-size: cover;
+    background-position-y: bottom;
+
+    background-clip: text;
+    -webkit-background-clip: text;
+}
